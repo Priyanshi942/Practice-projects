@@ -30,7 +30,3 @@ Repeat the color sequence and test your memory!
 
 ## 📂 Project
 Simon Game using DOM manipulation and event handling in JavaScript.
-
----
-
-⭐ If you like this project, feel free to star it!
